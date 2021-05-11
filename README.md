@@ -26,3 +26,6 @@ fun f(x) {
 文書中に`code`を入れる。
 **太字**、*斜体*、***太字斜体***
 
+
+* [Google](https://www.google.com/?hl=ja)
+
